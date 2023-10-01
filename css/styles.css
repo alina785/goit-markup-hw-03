@@ -221,7 +221,8 @@ address {
 
 /* Team section */
 .container-team {
-    padding: 120px 0;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .section-team {

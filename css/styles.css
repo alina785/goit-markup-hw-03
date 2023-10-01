@@ -220,12 +220,9 @@ address {
 /* END Advantage section */
 
 /* Team section */
-.container-team {
+.section-team {
     padding-top: 120px;
     padding-bottom: 120px;
-}
-
-.section-team {
     background-color: var(--color-boby-light);
 }
 

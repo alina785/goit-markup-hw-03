@@ -165,6 +165,7 @@ address {
     min-width: 169px;
     height: 56px;
     border-radius: 4px;
+    margin-top: 48px;
 }
 
 .hero-button:hover {
@@ -219,7 +220,7 @@ address {
 
 /* Team section */
 .container-team {
-    padding: 120px 0;
+    padding: 120px 0 120px;
 }
 
 .section-team {
